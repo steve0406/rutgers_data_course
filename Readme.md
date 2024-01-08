@@ -1,1 +1,0 @@
-Contains the necessary files for the Module 2 Challenge. Those files include: The VBA code itself labeled as Multiple_year_stock_data.xlsx and three screen shots of the 2018,2019 and 2020 results labeled Module2_2018_results.PNG, Module2_2019_results.PNG and Module2_2020_results.PNG
